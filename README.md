@@ -5,4 +5,4 @@ Projeto feito usando uma placa de arduíno leonardo com microcontrolador atmega3
 -> Realizadas adaptações para teclado do Brasil;
 
 -> Execução:
-Abre o powershell da vítima assim que plugado o usb no modo oculto, e realiza um download de um arquivo, o mesmo pode ser um backdoor que está no servidor do atacante.
+Abre o powershell da vítima no modo oculto assim que plugado o usb e realiza o download de um arquivo e executa-o, o mesmo pode ser um backdoor que está no servidor do atacante, permitindo assim uma reverse shell.
