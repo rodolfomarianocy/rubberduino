@@ -1,6 +1,6 @@
 # Rubberduino
 
-Projeto feito usando uma placa de arduíno leonardo com microcontrolador atmega32u4, utilizando biblioteca keyboard. 
+#### Projeto feito usando uma placa de arduíno leonardo com microcontrolador atmega32u4, utilizando biblioteca keyboard. 
 
 -> Realizadas adaptações para teclado do Brasil;
 
